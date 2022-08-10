@@ -1,0 +1,26 @@
+{
+  "item1": {
+    "id": "1",
+    "name": "Kishori Lal Sweets",
+    "latitude": "28.6139391",
+    "longitude": "77.209021"
+  },
+  "item2": {
+    "id": "2",
+    "name": "Samrat Sarees",
+    "latitude": "27.6139391",
+    "longitude": "76.209021"
+  },
+  "item3": {
+    "id": "3",
+    "name": "Saraswati Sweets",
+    "latitude": "27.6139391",
+    "longitude": "75.209021"
+  },
+  "item4": {
+    "id": "4",
+    "name": "Manoj Cloth Store",
+    "latitude": "26.6139391",
+    "longitude": "76.209021"
+  }
+}
